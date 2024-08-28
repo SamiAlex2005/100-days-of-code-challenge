@@ -7,3 +7,4 @@ In Day One I learned some basic fundamentals of Python. Like variables, data typ
 - [Quiz app](https://github.com/SamiAlex2005/100-days-of-code-challenge/blob/main/quiz_game.py)
 - [Timer](https://github.com/SamiAlex2005/100-days-of-code-challenge/blob/main/timer.py)
 - [Shopping App](https://github.com/SamiAlex2005/100-days-of-code-challenge/blob/main/shopping_app.py)
+- [Rock, Paper, Scissors](https://github.com/SamiAlex2005/100-days-of-code-challenge/blob/main/shopping_app.py)
