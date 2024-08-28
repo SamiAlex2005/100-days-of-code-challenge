@@ -3,4 +3,4 @@ This is my 100 days of code challenge in which I will upload every projects I ma
 
 ## Day One
 In Day One I learned some basic fundamentals of Python. Like variables, data types, operators, conditional statements and control flows(while loops, for loops, if, elif and else), collections(Lists, Tuples, Sets, Dictionaries), and functions.
- 
+### Projects
