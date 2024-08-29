@@ -8,3 +8,6 @@ In Day One I learned some basic fundamentals of Python. Like variables, data typ
 - [Timer](https://github.com/SamiAlex2005/100-days-of-code-challenge/blob/main/timer.py)
 - [Shopping App](https://github.com/SamiAlex2005/100-days-of-code-challenge/blob/main/shopping_app.py)
 - [Rock, Paper, Scissors](https://github.com/SamiAlex2005/100-days-of-code-challenge/blob/main/shopping_app.py)
+## Day Two
+### Projects
+- [Tic-Tac-Toe]()
