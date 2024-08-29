@@ -69,6 +69,8 @@ while timer < 3:
     random_int = random.randint(0,2)
     computer = options[random_int]
     user = input("Rock, Paper, Scissors: ").lower()
+    if user not in options:
+        print("Invalid Input! Please try again.")
     if timer < 2:
         timer, computer_score, user_score = game_logic(timer, computer_score, user_score)
     else:
