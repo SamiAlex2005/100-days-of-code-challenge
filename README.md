@@ -10,4 +10,4 @@ In Day One I learned some basic fundamentals of Python. Like variables, data typ
 - [Rock, Paper, Scissors](https://github.com/SamiAlex2005/100-days-of-code-challenge/blob/main/shopping_app.py)
 ## Day Two
 ### Projects
-- [Tic-Tac-Toe]()
+- [Tic-Tac-Toe](https://github.com/SamiAlex2005/100-days-of-code-challenge/blob/main/tic-tac-toe.py)
