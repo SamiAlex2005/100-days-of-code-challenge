@@ -53,9 +53,9 @@ while True:
         print("Player Two is always X")
         print("The first to fill three horizontally, vertically or perpendicularly wins! Enjoy!")
     player = int(input("Enter ur desired position: "))
+    os.system('clear')
     order, game_board = game_logic(order, game_board)
     result_handler(game_board)
-    os.system('clear')
     if result_handler(game_board) == True:
         board_printer()
         if order % 2 == 0:
