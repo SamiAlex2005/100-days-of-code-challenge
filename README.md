@@ -16,6 +16,6 @@ I didn't learned new topic on day two but I tried to build tic tac toe game even
 Learned nothing due to no power in our house!
 ## Day Four
 Learned nothing becuase I am to lazy!
-## Day Four
+## Day Five
 ### Projects
 - [Enhanced version of my previous tic tac toe game](https://github.com/SamiAlex2005/100-days-of-code-challenge/blob/main/enhanced-tic-tac-toe.py)
