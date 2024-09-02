@@ -11,3 +11,9 @@ In Day One I learned some basic fundamentals of Python. Like variables, data typ
 ## Day Two
 ### Projects
 - [Tic-Tac-Toe](https://github.com/SamiAlex2005/100-days-of-code-challenge/blob/main/tic-tac-toe.py)
+## Day Three
+- Learned nothing due to no power in our house!
+## Day Four
+- Learned nothing becuase I am to lazy!
+## Day Four
+### Projects
