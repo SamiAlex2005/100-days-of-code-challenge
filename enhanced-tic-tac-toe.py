@@ -8,7 +8,7 @@ game_board = [
 ]
 def game_logic(order, game_board):
     if player > 9 or player < 1:
-        print("\033[1;32mInvalid Input PLease Try Again!\033[0m")
+        print("\033[1;31mInvalid Input PLease Try Again!\033[0m")
     else:
         row = (player - 1) // 3
         col = (player - 1) % 3
