@@ -7,7 +7,7 @@ In Day One I learned some basic fundamentals of Python. Like variables, data typ
 - [Quiz app](https://github.com/SamiAlex2005/100-days-of-code-challenge/blob/main/quiz_game.py)
 - [Timer](https://github.com/SamiAlex2005/100-days-of-code-challenge/blob/main/timer.py)
 - [Shopping App](https://github.com/SamiAlex2005/100-days-of-code-challenge/blob/main/shopping_app.py)
-- [Rock, Paper, Scissors](https://github.com/SamiAlex2005/100-days-of-code-challenge/blob/main/shopping_app.py)
+- [Rock, Paper, Scissors](https://github.com/SamiAlex2005/100-days-of-code-challenge/blob/main/rps.py)
 ## Day Two
 I didn't learned new topic on day two but I tried to build tic tac toe game even if it's not clean coded due to my limited knowlefge on usage of functions.
 ### Projects
