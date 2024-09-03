@@ -17,5 +17,6 @@ Learned nothing due to no power in our house!
 ## Day Four
 Learned nothing becuase I am to lazy!
 ## Day Five
+Tried to clean code my previous version of Tic Tac Toe game. And even if it's still not the best clean code I managed to make it more clean than the previous one with better function usage.
 ### Projects
-- [Enhanced version of my previous tic tac toe game](https://github.com/SamiAlex2005/100-days-of-code-challenge/blob/main/enhanced-tic-tac-toe.py)
+- [Enhanced version of my previous tic tac toe game](https://github.com/SamiAlex2005/100-days-of-code-challenge/edit/main/Day%20Five/enhanced-tic-tac-toe.py)
