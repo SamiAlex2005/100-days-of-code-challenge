@@ -11,7 +11,7 @@ In Day One I learned some basic fundamentals of Python. Like variables, data typ
 ## Day Two
 I didn't learned new topic on day two but I tried to build tic tac toe game even if it's not clean coded due to my limited knowlefge on usage of functions.
 ### Projects
-- [Tic-Tac-Toe](https://github.com/SamiAlex2005/100-days-of-code-challenge/blob/main/tic-tac-toe.py)
+- [Tic-Tac-Toe](https://github.com/SamiAlex2005/100-days-of-code-challenge/blob/main/Day%20Two/tic-tac-toe.py)
 ## Day Three
 Learned nothing due to no power in our house!
 ## Day Four
